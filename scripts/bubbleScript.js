@@ -1,5 +1,5 @@
 
-"use strict"
+"use strict";
 
 $('.bubble').on('click', function() {
     $(this).toggleClass('active');
