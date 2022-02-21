@@ -2,7 +2,7 @@
 
 ## Сайт с пупыркой
 
-![img-portfolio](https://user-images.githubusercontent.com/56477695/124386878-16054e00-dce5-11eb-89ae-ed76d007a47b.png)
+![img-portfolio](https://user-images.githubusercontent.com/56477695/155013763-3685f31c-3db4-4b36-83d7-61aa92a4adf0.png)
 
 ## Portfolio {
 
