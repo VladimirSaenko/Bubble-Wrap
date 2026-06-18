@@ -4,12 +4,12 @@
 
 ## Portfolio {
 
-### https://vladimirsaenko.github.io/Portfolio-3/sites/site-23/Bubble-Wrap-Pimple-site/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-3/sites/site-23/Bubble-Wrap-Pimple-site/index.html
 
 ### }
 
 ## Codepen {
 
-### https://codepen.io/vladimirsaenko/pen/XWRmyzx
+### https://codepen.io/volodymyrsaienko240/pen/XWRmyzx
 
 ### }
